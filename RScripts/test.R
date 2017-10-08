@@ -4,3 +4,5 @@ c2 = c("Mumbai","Kolkata","Test")
 
 c3 = data.frame(c1,c2)
 c3
+
+c4 = 1:50
